@@ -14,12 +14,16 @@ A list of all repositories on GitHub:
 - https://github.com/apache/cordova-ios
 - https://github.com/apache/cordova-windows
 - https://github.com/apache/cordova-browser
+- https://github.com/apache/cordova-osx
 - https://github.com/apache/cordova-test-platform
+
+#### Experimental or Unfinished Platforms
+
+- https://github.com/apache/cordova-electron
 
 #### Deprecated Platforms
 
 - https://github.com/apache/cordova-blackberry
-- https://github.com/apache/cordova-osx
 - https://github.com/apache/cordova-firefoxos
 - https://github.com/apache/cordova-ubuntu
 - https://github.com/apache/cordova-wp8
@@ -29,7 +33,6 @@ A list of all repositories on GitHub:
 - https://github.com/apache/cordova-amazon-fireos
 - https://github.com/apache/cordova-wp7
 - https://github.com/apache/cordova-bada
-- https://github.com/apache/cordova-electron
 - https://github.com/apache/cordova-bada-wac
 
 ### Tools
