@@ -87,6 +87,7 @@ A list of all repositories on GitHub:
 
 - https://github.com/apache/cordova-docs
 - https://github.com/apache/cordova-status
+- https://github.com/apache/cordova-coho/tree/master/docs
 
 ### Organization / Apache
 
