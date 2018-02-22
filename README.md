@@ -42,7 +42,6 @@ A list of all repositories on GitHub:
 - https://github.com/apache/cordova-lib
 - https://github.com/apache/cordova-cli
 - https://github.com/apache/cordova-coho
-- https://github.com/apache/cordova-medic
 - https://github.com/apache/cordova-paramedic
 - https://github.com/apache/cordova-mobile-spec
 - https://github.com/apache/cordova-plugin-test-framework
@@ -104,6 +103,7 @@ A list of all repositories on GitHub:
 
 ### Unused / Outdated / Deprecated
 
+- https://github.com/apache/cordova-medic
 - https://github.com/apache/cordova-labs
 - https://github.com/apache/cordova-weinre
 - https://github.com/apache/cordova-app-harness
