@@ -4,9 +4,11 @@
 - Target multiple platforms with one code base
 - Free and open source
 
+More information: https://cordova.apache.org/
+
 ## Repositories
 
-A list of all repositories on GitHub: 
+All Cordova code is hosted in repositories on GitHub. Here is a full list of all repositories:
 
 ### Platforms
 
@@ -35,49 +37,60 @@ A list of all repositories on GitHub:
 - https://github.com/apache/cordova-bada
 - https://github.com/apache/cordova-bada-wac
 
-### Tools
+### Tooling
+
+#### CLIs
+
+- https://github.com/apache/cordova-cli
+- https://github.com/apache/cordova-plugman
+- https://github.com/apache/cordova-coho
+
+#### Libraries
 
 - https://github.com/apache/cordova-js
-- https://github.com/apache/cordova-plugman
 - https://github.com/apache/cordova-lib
-- https://github.com/apache/cordova-cli
-- https://github.com/apache/cordova-coho
-- https://github.com/apache/cordova-paramedic
-- https://github.com/apache/cordova-mobile-spec
-- https://github.com/apache/cordova-plugin-test-framework
 - https://github.com/apache/cordova-common
 - https://github.com/apache/cordova-create
 - https://github.com/apache/cordova-fetch
 - https://github.com/apache/cordova-serve
 
-### Plugins
+#### Testing
 
-- https://github.com/apache/cordova-plugin-whitelist
-- https://github.com/apache/cordova-plugin-media-capture
-- https://github.com/apache/cordova-plugin-network-information
+- https://github.com/apache/cordova-plugin-test-framework
+- https://github.com/apache/cordova-paramedic
+- https://github.com/apache/cordova-mobile-spec
+
+### Core Plugins
+
+- https://github.com/apache/cordova-plugin-battery-status
+- https://github.com/apache/cordova-plugin-camera
 - https://github.com/apache/cordova-plugin-device
 - https://github.com/apache/cordova-plugin-dialogs
-- https://github.com/apache/cordova-plugin-wkwebview-engine
-- https://github.com/apache/cordova-plugin-statusbar
-- https://github.com/apache/cordova-plugin-media
-- https://github.com/apache/cordova-plugin-splashscreen
 - https://github.com/apache/cordova-plugin-file
 - https://github.com/apache/cordova-plugin-geolocation
 - https://github.com/apache/cordova-plugin-inappbrowser
-- https://github.com/apache/cordova-plugins (Experimental Plugins)
-- https://github.com/apache/cordova-plugin-camera
-- https://github.com/apache/cordova-plugin-vibration
-- https://github.com/apache/cordova-plugin-battery-status
+- https://github.com/apache/cordova-plugin-media
+- https://github.com/apache/cordova-plugin-media-capture
+- https://github.com/apache/cordova-plugin-network-information
 - https://github.com/apache/cordova-plugin-screen-orientation
+- https://github.com/apache/cordova-plugin-splashscreen
+- https://github.com/apache/cordova-plugin-statusbar
+- https://github.com/apache/cordova-plugin-vibration
+- https://github.com/apache/cordova-plugin-whitelist
+- https://github.com/apache/cordova-plugin-wkwebview-engine
+
+#### Experimental Plugins
+
+- https://github.com/apache/cordova-plugins
 
 #### Deprecated Plugins
 
-- https://github.com/apache/cordova-plugin-contacts
-- https://github.com/apache/cordova-plugin-file-transfer
-- https://github.com/apache/cordova-plugin-globalization
 - https://github.com/apache/cordova-plugin-console
+- https://github.com/apache/cordova-plugin-contacts
 - https://github.com/apache/cordova-plugin-device-motion
 - https://github.com/apache/cordova-plugin-device-orientation
+- https://github.com/apache/cordova-plugin-file-transfer
+- https://github.com/apache/cordova-plugin-globalization
 - https://github.com/apache/cordova-plugin-legacy-whitelist
 
 ### Templates
@@ -85,7 +98,7 @@ A list of all repositories on GitHub:
 - https://github.com/apache/cordova-app-hello-world
 - https://github.com/apache/cordova-template-reference
 
-### Documentation and Website
+### Documentation and Website(s)
 
 - https://github.com/apache/cordova-docs
 - https://github.com/apache/cordova-status
