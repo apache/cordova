@@ -6,6 +6,10 @@
 
 More information: https://cordova.apache.org/
 
+## Filing a Bug
+
+To file a bug, or raise another type of issue, please navigate to the appropriate repo from the list below and create a `New Issue` from the `Issues` tab of the repo.
+
 ## Repositories
 
 All Cordova code is hosted in repositories on GitHub. Here is a full list of all repositories:
