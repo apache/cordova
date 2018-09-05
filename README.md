@@ -14,118 +14,121 @@ To file a bug, or raise another type of issue, please navigate to the appropriat
 
 All Cordova code is hosted in repositories on GitHub. Here is a full list of all repositories:
 
-### Platforms
+<!-- This markdown was generated with http://cordova.betamo.de/cordova-github-repositories_markdown.php -->
 
-- https://github.com/apache/cordova-android
-- https://github.com/apache/cordova-ios
-- https://github.com/apache/cordova-windows
-- https://github.com/apache/cordova-browser
-- https://github.com/apache/cordova-osx
-- https://github.com/apache/cordova-test-platform
+### Platforms
+#### Active Platforms
+
+- [apache/cordova-android](https://github.com/apache/cordova-android)
+- [apache/cordova-ios](https://github.com/apache/cordova-ios)
+- [apache/cordova-windows](https://github.com/apache/cordova-windows)
+- [apache/cordova-browser](https://github.com/apache/cordova-browser)
+- [apache/cordova-osx](https://github.com/apache/cordova-osx)
+- [apache/cordova-test-platform](https://github.com/apache/cordova-test-platform)
 
 #### Experimental or Unfinished Platforms
 
-- https://github.com/apache/cordova-electron
+- [apache/cordova-electron](https://github.com/apache/cordova-electron)
 
-#### Deprecated Platforms
+#### Deprecated platforms
 
-- https://github.com/apache/cordova-blackberry
-- https://github.com/apache/cordova-firefoxos
-- https://github.com/apache/cordova-ubuntu
-- https://github.com/apache/cordova-wp8
-- https://github.com/apache/cordova-tizen
-- https://github.com/apache/cordova-qt
-- https://github.com/apache/cordova-webos
-- https://github.com/apache/cordova-amazon-fireos
-- https://github.com/apache/cordova-wp7
-- https://github.com/apache/cordova-bada
-- https://github.com/apache/cordova-bada-wac
+- [apache/cordova-blackberry](https://github.com/apache/cordova-blackberry)
+- [apache/cordova-firefoxos](https://github.com/apache/cordova-firefoxos)
+- [apache/cordova-ubuntu](https://github.com/apache/cordova-ubuntu)
+- [apache/cordova-wp8](https://github.com/apache/cordova-wp8)
+- [apache/cordova-tizen](https://github.com/apache/cordova-tizen)
+- [apache/cordova-qt](https://github.com/apache/cordova-qt)
+- [apache/cordova-webos](https://github.com/apache/cordova-webos)
+- [apache/cordova-amazon-fireos](https://github.com/apache/cordova-amazon-fireos)
+- [apache/cordova-wp7](https://github.com/apache/cordova-wp7)
+- [apache/cordova-bada](https://github.com/apache/cordova-bada)
+- [apache/cordova-bada-wac](https://github.com/apache/cordova-bada-wac)
+
+### Core Plugins
+#### Active Core Plugins
+
+- [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)
+- [apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera)
+- [apache/cordova-plugin-device](https://github.com/apache/cordova-plugin-device)
+- [apache/cordova-plugin-dialogs](https://github.com/apache/cordova-plugin-dialogs)
+- [apache/cordova-plugin-file](https://github.com/apache/cordova-plugin-file)
+- [apache/cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation)
+- [apache/cordova-plugin-inappbrowser](https://github.com/apache/cordova-plugin-inappbrowser)
+- [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media)
+- [apache/cordova-plugin-media-capture](https://github.com/apache/cordova-plugin-media-capture)
+- [apache/cordova-plugin-network-information](https://github.com/apache/cordova-plugin-network-information)
+- [apache/cordova-plugin-screen-orientation](https://github.com/apache/cordova-plugin-screen-orientation)
+- [apache/cordova-plugin-splashscreen](https://github.com/apache/cordova-plugin-splashscreen)
+- [apache/cordova-plugin-statusbar](https://github.com/apache/cordova-plugin-statusbar)
+- [apache/cordova-plugin-vibration](https://github.com/apache/cordova-plugin-vibration)
+- [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist)
+- [apache/cordova-plugin-wkwebview-engine](https://github.com/apache/cordova-plugin-wkwebview-engine)
+
+#### Experimental or Unfinished Core Plugins
+
+- [apache/cordova-plugins](https://github.com/apache/cordova-plugins)
+
+#### Deprecated Core Plugins
+
+- [apache/cordova-plugin-console](https://github.com/apache/cordova-plugin-console)
+- [apache/cordova-plugin-contacts](https://github.com/apache/cordova-plugin-contacts)
+- [apache/cordova-plugin-device-motion](https://github.com/apache/cordova-plugin-device-motion)
+- [apache/cordova-plugin-device-orientation](https://github.com/apache/cordova-plugin-device-orientation)
+- [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer)
+- [apache/cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization)
+- [apache/cordova-plugin-legacy-whitelist](https://github.com/apache/cordova-plugin-legacy-whitelist)
 
 ### Tooling
-
 #### CLIs
 
-- https://github.com/apache/cordova-cli
-- https://github.com/apache/cordova-plugman
-- https://github.com/apache/cordova-coho
+- [apache/cordova-cli](https://github.com/apache/cordova-cli)
+- [apache/cordova-plugman](https://github.com/apache/cordova-plugman)
+- [apache/cordova-coho](https://github.com/apache/cordova-coho)
 
 #### Libraries
 
-- https://github.com/apache/cordova-js
-- https://github.com/apache/cordova-lib
-- https://github.com/apache/cordova-common
-- https://github.com/apache/cordova-create
-- https://github.com/apache/cordova-fetch
-- https://github.com/apache/cordova-serve
+- [apache/cordova-js](https://github.com/apache/cordova-js)
+- [apache/cordova-lib](https://github.com/apache/cordova-lib)
+- [apache/cordova-common](https://github.com/apache/cordova-common)
+- [apache/cordova-create](https://github.com/apache/cordova-create)
+- [apache/cordova-fetch](https://github.com/apache/cordova-fetch)
+- [apache/cordova-serve](https://github.com/apache/cordova-serve)
 
 #### Testing
 
-- https://github.com/apache/cordova-plugin-test-framework
-- https://github.com/apache/cordova-paramedic
-- https://github.com/apache/cordova-mobile-spec
-
-### Core Plugins
-
-- https://github.com/apache/cordova-plugin-battery-status
-- https://github.com/apache/cordova-plugin-camera
-- https://github.com/apache/cordova-plugin-device
-- https://github.com/apache/cordova-plugin-dialogs
-- https://github.com/apache/cordova-plugin-file
-- https://github.com/apache/cordova-plugin-geolocation
-- https://github.com/apache/cordova-plugin-inappbrowser
-- https://github.com/apache/cordova-plugin-media
-- https://github.com/apache/cordova-plugin-media-capture
-- https://github.com/apache/cordova-plugin-network-information
-- https://github.com/apache/cordova-plugin-screen-orientation
-- https://github.com/apache/cordova-plugin-splashscreen
-- https://github.com/apache/cordova-plugin-statusbar
-- https://github.com/apache/cordova-plugin-vibration
-- https://github.com/apache/cordova-plugin-whitelist
-- https://github.com/apache/cordova-plugin-wkwebview-engine
-
-#### Experimental Plugins
-
-- https://github.com/apache/cordova-plugins
-
-#### Deprecated Plugins
-
-- https://github.com/apache/cordova-plugin-console
-- https://github.com/apache/cordova-plugin-contacts
-- https://github.com/apache/cordova-plugin-device-motion
-- https://github.com/apache/cordova-plugin-device-orientation
-- https://github.com/apache/cordova-plugin-file-transfer
-- https://github.com/apache/cordova-plugin-globalization
-- https://github.com/apache/cordova-plugin-legacy-whitelist
+- [apache/cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework)
+- [apache/cordova-paramedic](https://github.com/apache/cordova-paramedic)
+- [apache/cordova-mobile-spec](https://github.com/apache/cordova-mobile-spec)
 
 ### Templates
 
-- https://github.com/apache/cordova-app-hello-world
-- https://github.com/apache/cordova-template-reference
+- [apache/cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world)
+- [apache/cordova-template-reference](https://github.com/apache/cordova-template-reference)
 
 ### Documentation and Website(s)
 
-- https://github.com/apache/cordova-docs
-- https://github.com/apache/cordova-status
-- https://github.com/apache/cordova-coho/tree/master/docs
+- [apache/cordova-docs](https://github.com/apache/cordova-docs)
+- [apache/cordova-status](https://github.com/apache/cordova-status)
 
 ### Organization / Apache
 
-- https://github.com/apache/cordova-contribute
-- https://github.com/apache/cordova-discuss
-- https://github.com/apache/cordova-apache-board-reports
-- https://github.com/apache/cordova-new-committer-and-pmc
+- [apache/cordova-contribute](https://github.com/apache/cordova-contribute)
+- [apache/cordova-discuss](https://github.com/apache/cordova-discuss)
+- [apache/cordova-apache-board-reports](https://github.com/apache/cordova-apache-board-reports)
+- [apache/cordova-new-committer-and-pmc](https://github.com/apache/cordova-new-committer-and-pmc)
 
 ### Other
 
-- https://github.com/apache/cordova-node-xcode
+- [apache/cordova-node-xcode](https://github.com/apache/cordova-node-xcode)
 
 ### Unused / Outdated / Deprecated
 
-- https://github.com/apache/cordova-medic
-- https://github.com/apache/cordova-labs
-- https://github.com/apache/cordova-weinre
-- https://github.com/apache/cordova-app-harness
-- https://github.com/apache/cordova-plugin-compat
-- https://github.com/apache/cordova-registry-web
-- https://github.com/apache/cordova-registry
-- https://github.com/apache/cordova-fauxton-server
+- [apache/cordova-medic](https://github.com/apache/cordova-medic)
+- [apache/cordova-labs](https://github.com/apache/cordova-labs)
+- [apache/cordova-weinre](https://github.com/apache/cordova-weinre)
+- [apache/cordova-app-harness](https://github.com/apache/cordova-app-harness)
+- [apache/cordova-plugin-compat](https://github.com/apache/cordova-plugin-compat)
+- [apache/cordova-registry-web](https://github.com/apache/cordova-registry-web)
+- [apache/cordova-registry](https://github.com/apache/cordova-registry)
+- [apache/cordova-fauxton-server](https://github.com/apache/cordova-fauxton-server)
+
