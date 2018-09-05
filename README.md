@@ -110,6 +110,7 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 
 ### Organization / Apache
 
+- https://github.com/apache/cordova-contribute
 - https://github.com/apache/cordova-discuss
 - https://github.com/apache/cordova-apache-board-reports
 - https://github.com/apache/cordova-new-committer-and-pmc
