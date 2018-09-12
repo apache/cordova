@@ -103,7 +103,6 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 ### Templates
 
 - [apache/cordova-app-hello-world](https://github.com/apache/cordova-app-hello-world)
-- [apache/cordova-template-reference](https://github.com/apache/cordova-template-reference)
 
 ### Documentation and Website(s)
 
@@ -131,4 +130,4 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 - [apache/cordova-registry-web](https://github.com/apache/cordova-registry-web)
 - [apache/cordova-registry](https://github.com/apache/cordova-registry)
 - [apache/cordova-fauxton-server](https://github.com/apache/cordova-fauxton-server)
-
+- [apache/cordova-template-reference](https://github.com/apache/cordova-template-reference)
