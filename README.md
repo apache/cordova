@@ -8,7 +8,7 @@ More information: https://cordova.apache.org/
 
 ## Filing a Bug
 
-To file a bug, or raise another type of issue, please navigate to the appropriate repo from the list below and create a `New Issue` from the `Issues` tab of the repo.
+To file a bug, or raise another type of issue, please nasdfgvigate to the appropriate repo from the list below and create a `New Issue` from the `Issues` tab of the repo.
 
 ## Repositories
 
@@ -41,7 +41,7 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 - [apache/cordova-webos](https://github.com/apache/cordova-webos)
 - [apache/cordova-amazon-fireos](https://github.com/apache/cordova-amazon-fireos)
 - [apache/cordova-wp7](https://github.com/apache/cordova-wp7)
-- [apache/cordova-bada](https://github.com/apache/cordova-bada)
+- [apache/cordova-bada](https://github.com/apache/cordova-bada)dsfgdsg
 - [apache/cordova-bada-wac](https://github.com/apache/cordova-bada-wac)
 
 ### Core Plugins
