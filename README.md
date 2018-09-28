@@ -4,7 +4,7 @@
 - Target multiple platforms with one code base
 - Free and open source
 
-More information: https://cordova.apache.org/
+Website and documentation: https://cordova.apache.org/
 
 ## Filing a Bug
 
@@ -12,7 +12,11 @@ To file a bug, or raise another type of issue, please navigate to the appropriat
 
 ## Repositories
 
-All Cordova code is hosted in repositories on GitHub. Here is a full list of all repositories:
+All Cordova code is hosted in repositories on GitHub. 
+
+Continuous Integration status of all relevant repositories: https://apache.github.io/cordova-status/
+
+Here is a full list of all repositories:
 
 <!-- This markdown was generated with http://cordova.betamo.de/cordova-github-repositories_markdown.php -->
 
@@ -30,6 +34,9 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 
 - [apache/cordova-electron](https://github.com/apache/cordova-electron)
 
+<details>
+  <summary>Deprecated platforms</summary>
+
 #### Deprecated platforms
 
 - [apache/cordova-blackberry](https://github.com/apache/cordova-blackberry)
@@ -43,6 +50,8 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 - [apache/cordova-wp7](https://github.com/apache/cordova-wp7)
 - [apache/cordova-bada](https://github.com/apache/cordova-bada)
 - [apache/cordova-bada-wac](https://github.com/apache/cordova-bada-wac)
+
+</details>
 
 ### Core Plugins
 #### Active Core Plugins
@@ -68,6 +77,9 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 
 - [apache/cordova-plugins](https://github.com/apache/cordova-plugins)
 
+<details>
+  <summary>Deprecated Core Plugins</summary>
+  
 #### Deprecated Core Plugins
 
 - [apache/cordova-plugin-console](https://github.com/apache/cordova-plugin-console)
@@ -77,6 +89,8 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 - [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer)
 - [apache/cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization)
 - [apache/cordova-plugin-legacy-whitelist](https://github.com/apache/cordova-plugin-legacy-whitelist)
+
+</details>
 
 ### Tooling
 #### CLIs
@@ -120,6 +134,10 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 
 - [apache/cordova-node-xcode](https://github.com/apache/cordova-node-xcode)
 
+
+<details>
+  <summary>Unused / Outdated / Deprecated</summary>
+  
 ### Unused / Outdated / Deprecated
 
 - [apache/cordova-medic](https://github.com/apache/cordova-medic)
@@ -131,3 +149,5 @@ All Cordova code is hosted in repositories on GitHub. Here is a full list of all
 - [apache/cordova-registry](https://github.com/apache/cordova-registry)
 - [apache/cordova-fauxton-server](https://github.com/apache/cordova-fauxton-server)
 - [apache/cordova-template-reference](https://github.com/apache/cordova-template-reference)
+
+</details>
