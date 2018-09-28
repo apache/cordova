@@ -34,8 +34,7 @@ Here is a full list of all repositories:
 
 - [apache/cordova-electron](https://github.com/apache/cordova-electron)
 
-<details>
-  <summary>Deprecated platforms</summary>
+<details><summary>Deprecated platforms</summary>
 
 #### Deprecated platforms
 
@@ -77,9 +76,8 @@ Here is a full list of all repositories:
 
 - [apache/cordova-plugins](https://github.com/apache/cordova-plugins)
 
-<details>
-  <summary>Deprecated Core Plugins</summary>
-  
+<details><summary>Deprecated Core Plugins</summary>
+
 #### Deprecated Core Plugins
 
 - [apache/cordova-plugin-console](https://github.com/apache/cordova-plugin-console)
@@ -120,8 +118,11 @@ Here is a full list of all repositories:
 
 ### Documentation and Website(s)
 
+- [apache/cordova](https://github.com/apache/cordova)
 - [apache/cordova-docs](https://github.com/apache/cordova-docs)
 - [apache/cordova-status](https://github.com/apache/cordova-status)
+
+<details><summary>Organization / Apache</summary>
 
 ### Organization / Apache
 
@@ -130,14 +131,14 @@ Here is a full list of all repositories:
 - [apache/cordova-apache-board-reports](https://github.com/apache/cordova-apache-board-reports)
 - [apache/cordova-new-committer-and-pmc](https://github.com/apache/cordova-new-committer-and-pmc)
 
+</details>
+
 ### Other
 
 - [apache/cordova-node-xcode](https://github.com/apache/cordova-node-xcode)
 
+<details><summary>Unused / Outdated / Deprecated</summary>
 
-<details>
-  <summary>Unused / Outdated / Deprecated</summary>
-  
 ### Unused / Outdated / Deprecated
 
 - [apache/cordova-medic](https://github.com/apache/cordova-medic)
@@ -151,3 +152,5 @@ Here is a full list of all repositories:
 - [apache/cordova-template-reference](https://github.com/apache/cordova-template-reference)
 
 </details>
+
+
