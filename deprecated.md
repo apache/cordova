@@ -1,20 +1,20 @@
 # Deprecated Apache Cordova components
 
-Apache Cordova is a relatively old project. As such, we deprecated serveral of our components and ceased supporting and developing them over the years.
+Apache Cordova is a relatively old project. As such, we deprecated serveral of our components and ceased supporting and developing them over the years. (Read more about the process behind this in [cordova-contribute / Deprecation and Archiving](https://github.com/apache/cordova-contribute/blob/master/deprecation.md).)
 
 ## Deprecated Platforms
 
-- apache/cordova-blackberry
-- apache/cordova-firefoxos
-- apache/cordova-ubuntu
-- apache/cordova-wp8
-- apache/cordova-tizen
-- apache/cordova-qt
-- apache/cordova-webos
-- apache/cordova-amazon-fireos
-- apache/cordova-wp7
-- apache/cordova-bada
-- apache/cordova-bada-wac
+- [apache/cordova-blackberry](https://github.com/apache/cordova-blackberry)
+- [apache/cordova-firefoxos](https://github.com/apache/cordova-firefoxos)
+- [apache/cordova-ubuntu](https://github.com/apache/cordova-ubuntu)
+- [apache/cordova-wp8](https://github.com/apache/cordova-wp8)
+- [apache/cordova-tizen](https://github.com/apache/cordova-tizen)
+- [apache/cordova-qt](https://github.com/apache/cordova-qt)
+- [apache/cordova-webos](https://github.com/apache/cordova-webos)
+- [apache/cordova-amazon-fireos](https://github.com/apache/cordova-amazon-fireos)
+- [apache/cordova-wp7](https://github.com/apache/cordova-wp7)
+- [apache/cordova-bada](https://github.com/apache/cordova-bada)
+- [apache/cordova-bada-wac](https://github.com/apache/cordova-bada-wac)
 
 ## Deprecated Core Plugins
 
@@ -66,14 +66,14 @@ Apache Cordova is a relatively old project. As such, we deprecated serveral of o
 
 ## Deprecated Tooling
 
-- apache/cordova-medic
+- [apache/cordova-medic](https://github.com/apache/cordova-medic)
 
 ## Deprecated Other
 
-- apache/cordova-weinre
-- apache/cordova-app-harness
-- apache/cordova-plugin-compat
-- apache/cordova-registry-web
-- apache/cordova-registry
-- apache/cordova-fauxton-server
-- apache/cordova-template-reference
+- [apache/cordova-weinre](https://github.com/apache/cordova-weinre)
+- [apache/cordova-app-harness](https://github.com/apache/cordova-app-harness)
+- [apache/cordova-plugin-compat](https://github.com/apache/cordova-plugin-compat)
+- [apache/cordova-registry-web](https://github.com/apache/cordova-registry-web)
+- [apache/cordova-registry](https://github.com/apache/cordova-registry)
+- [apache/cordova-fauxton-server](https://github.com/apache/cordova-fauxton-server)
+- [apache/cordova-template-reference](https://github.com/apache/cordova-template-reference)
