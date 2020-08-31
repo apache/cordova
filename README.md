@@ -12,7 +12,11 @@ To file a bug, or raise another type of issue, please navigate to the appropriat
 
 ## Repositories
 
-All Cordova code is hosted in repositories on GitHub. 
+All Cordova code is hosted in repositories on GitHub.
+
+An overview of the dependencies among a selection of these repositories is shown in below graph. The leading `apache/cordova-` has been stripped from all repository names. Dotted edges are implicit dependencies (i.e. not expressed in `package.json`).
+
+[![Cordova Dependency Graph](https://sketchviz.com/@raphinesse/a6f28acb2281b782d9fb5ef486834deb/fbb1d0715431bdd67a9bc430a8d0a9899b145bf9.sketchy.png)](//sketchviz.com/@raphinesse/a6f28acb2281b782d9fb5ef486834deb)
 
 Continuous Integration status of all relevant repositories: https://apache.github.io/cordova-status/
 
