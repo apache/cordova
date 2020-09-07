@@ -58,8 +58,11 @@ Here is a full list of all repositories:
 - [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)
 - [apache/cordova-plugin-camera](https://github.com/apache/cordova-plugin-camera)
 - [apache/cordova-plugin-device](https://github.com/apache/cordova-plugin-device)
+- [apache/cordova-plugin-device-motion](https://github.com/apache/cordova-plugin-device-motion)
+- [apache/cordova-plugin-device-orientation](https://github.com/apache/cordova-plugin-device-orientation)
 - [apache/cordova-plugin-dialogs](https://github.com/apache/cordova-plugin-dialogs)
 - [apache/cordova-plugin-file](https://github.com/apache/cordova-plugin-file)
+- [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer)
 - [apache/cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation)
 - [apache/cordova-plugin-inappbrowser](https://github.com/apache/cordova-plugin-inappbrowser)
 - [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media)
@@ -82,9 +85,6 @@ Here is a full list of all repositories:
 
 - [apache/cordova-plugin-console](https://github.com/apache/cordova-plugin-console)
 - [apache/cordova-plugin-contacts](https://github.com/apache/cordova-plugin-contacts)
-- [apache/cordova-plugin-device-motion](https://github.com/apache/cordova-plugin-device-motion)
-- [apache/cordova-plugin-device-orientation](https://github.com/apache/cordova-plugin-device-orientation)
-- [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer)
 - [apache/cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization)
 - [apache/cordova-plugin-legacy-whitelist](https://github.com/apache/cordova-plugin-legacy-whitelist)
 
