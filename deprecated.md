@@ -36,20 +36,6 @@ Apache Cordova is a relatively old project. As such, we deprecated serveral of o
 - Deprecation announcement: https://cordova.apache.org/news/2017/11/27/Deprecation-of-cordova-contacts-plugin.html
 - Reason: various privacy and security issues
 
-### [cordova-plugin-device-motion](https://github.com/apache/cordova-plugin-device-motion)
-
-- Date: 2017-09
-- Deprecation announcement: https://cordova.apache.org/news/2017/09/22/plugins-release.html
-- Reason: The [W3C Device Motion and Orientation API](https://www.w3.org/TR/2016/CR-orientation-event-20160818/#devicemotion) now defines a way to access the accelerometer of the device
-- Migration Guide: https://blog.phonegap.com/migrating-from-the-cordova-device-motion-plugin-ddd8176632ed
-
-### [cordova-plugin-device-orientation](https://github.com/apache/cordova-plugin-device-orientation)
-
-- Date: 2017-09
-- Deprecation announcement: https://cordova.apache.org/news/2017/09/22/plugins-release.html
-- Reason: The [W3C Device Motion and Orientation API](https://www.w3.org/TR/2016/CR-orientation-event-20160818/#devicemotion) now defines a way to access the compass of the device
-- Migration Guide: https://blog.phonegap.com/migrating-from-the-cordova-device-orientation-plugin-8442b869e6cc
-
 ### [cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization)
 
 - Date: 2017-11
