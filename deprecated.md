@@ -42,6 +42,12 @@ Apache Cordova is a relatively old project. As such, we deprecated serveral of o
 - Reason: Replacement [ECMA Internationalization API](https://www.ecma-international.org/ecma-402/1.0/) available in all relevant platforms
 - Deprecation announcement and Migration guide: https://cordova.apache.org/news/2017/11/20/migrate-from-cordova-globalization-plugin.html
 
+### [cordova-plugin-wkwebview-engine](https://github.com/apache/cordova-plugin-wkwebview-engine)
+
+- Date: 2021-02
+- Reason: WKWebView implementation is now provided by [cordova-ios@6](https://cordova.apache.org/announcements/2020/06/01/cordova-ios-release-6.0.0.html) making this plugin obsolete.
+- Deprecation announcement and Migration guide: https://cordova.apache.org/2021/02/07/deprecate-wkwebview-engine.html
+
 ### [cordova-plugin-legacy-whitelist](https://github.com/apache/cordova-plugin-legacy-whitelist)
 
 ## Deprecated Tooling
