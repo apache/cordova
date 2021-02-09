@@ -77,7 +77,6 @@ Here is a full list of all repositories:
 - [apache/cordova-plugin-statusbar](https://github.com/apache/cordova-plugin-statusbar)
 - [apache/cordova-plugin-vibration](https://github.com/apache/cordova-plugin-vibration)
 - [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist)
-- [apache/cordova-plugin-wkwebview-engine](https://github.com/apache/cordova-plugin-wkwebview-engine)
 
 #### Experimental or Unfinished Core Plugins
 
@@ -91,6 +90,7 @@ Here is a full list of all repositories:
 - [apache/cordova-plugin-contacts](https://github.com/apache/cordova-plugin-contacts)
 - [apache/cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization)
 - [apache/cordova-plugin-legacy-whitelist](https://github.com/apache/cordova-plugin-legacy-whitelist)
+- [apache/cordova-plugin-wkwebview-engine](https://github.com/apache/cordova-plugin-wkwebview-engine)
 
 </details>
 
