@@ -15,6 +15,7 @@ Apache Cordova is a relatively old project. As such, we deprecated serveral of o
 - [apache/cordova-wp7](https://github.com/apache/cordova-wp7)
 - [apache/cordova-bada](https://github.com/apache/cordova-bada)
 - [apache/cordova-bada-wac](https://github.com/apache/cordova-bada-wac)
+- [apache/cordova-bada-osx](https://github.com/apache/cordova-osx)
 
 ## Deprecated Core Plugins
 
