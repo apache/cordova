@@ -12,6 +12,7 @@ Apache Cordova is a relatively old project. As such, we deprecated serveral of o
 - [apache/cordova-qt](https://github.com/apache/cordova-qt)
 - [apache/cordova-webos](https://github.com/apache/cordova-webos)
 - [apache/cordova-amazon-fireos](https://github.com/apache/cordova-amazon-fireos)
+- [apache/cordova-windows](https://github.com/apache/cordova-windows)
 - [apache/cordova-wp7](https://github.com/apache/cordova-wp7)
 - [apache/cordova-bada](https://github.com/apache/cordova-bada)
 - [apache/cordova-bada-wac](https://github.com/apache/cordova-bada-wac)
