@@ -140,8 +140,8 @@ Here is a full list of all repositories:
 
 ### Other
 
-- [apache/cordova-node-xcode](https://github.com/apache/cordova-node-xcode)
 - [apache/cordova-eslint](https://github.com/apache/cordova-eslint)
+- [apache/cordova-node-xcode](https://github.com/apache/cordova-node-xcode)
 
 <details><summary>Unused / Outdated / Deprecated</summary>
 
