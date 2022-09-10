@@ -32,7 +32,7 @@ Here is a full list of all repositories:
 - [apache/cordova-electron](https://github.com/apache/cordova-electron)
 - [apache/cordova-ios](https://github.com/apache/cordova-ios)
 
-#### Other Platform
+#### Other Platforms
 
 - [apache/cordova-test-platform](https://github.com/apache/cordova-test-platform)
 
