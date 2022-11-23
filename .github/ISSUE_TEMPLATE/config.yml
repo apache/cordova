@@ -1,9 +1,12 @@
 ---
 blank_issues_enabled: false
 contact_links:
-  - name: Ask a question or get support
+  - name: 💬 Ask a question or get support
     url: https://github.com/apache/cordova/discussions/
     about: Ask a question or request support for using Apache Cordova
-  - name: Questions on Stack Overflow
+  - name: Ask on Stack Overflow
     url: https://stackoverflow.com/questions/tagged/cordova
-    about: Look at questions/answers at Stack Overflow
+    about: Look at questions/answers on Stack Overflow
+  - name: Ask in the Cordova Slack
+    url: https://cordova.slack.com
+    about: Ask a developer in the Cordova Slack community chat
