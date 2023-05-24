@@ -1,5 +1,7 @@
-Cordova CLI 12.0.0 and internal packages has been released! This major release contains breaking changes such as dropped node 14 support, removing deprecated platforms OSX and Windows from platform listing, and removed platform pinnings.
+Cordova CLI 12.0.0 & internal packages has been released! This major release contains breaking changes!
 
-For more details and changes, please read the blog post:
+- Dropped node 14 support
+- Removed deprecated platforms OSX & Windows from platform listing
+- Removed platform pinnings
 
-https://cordova.apache.org/news/2023/05/22/cordova-cli-12.0.0.html
+More details and changes on our blog post: https://cordova.apache.org/news/2023/05/22/cordova-cli-12.0.0.html
