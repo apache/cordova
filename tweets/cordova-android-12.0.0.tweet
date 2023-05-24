@@ -1,0 +1,5 @@
+Cordova Android 12.0.0 has been released! This major release has added Android 13 (SDK 33) support and also increased the minimum support version to Android 7.0 (SDK 24).
+
+It also updated other build dependencies and added new features. Read the blog post for more:
+
+https://cordova.apache.org/announcements/2023/05/22/cordova-android-12.0.0.html
