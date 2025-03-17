@@ -33,6 +33,7 @@ github:
     wiki: false
     issues: true
     projects: true
+    discussions: true
   
   enabled_merge_buttons:
     squash: true
