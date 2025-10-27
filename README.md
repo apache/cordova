@@ -1,3 +1,6 @@
+# Introduction
+This repository is a landing page for Cordova specific repositories, some documentations and home for discussions. It does not reflect the npm package `cordova` which  is the Cordova command line interface. That repository can be found under [apache/cordova-cli](https://github.com/apache/cordova-cli).
+
 # Apache Cordova
 
 - Mobile apps with HTML, CSS & JS
