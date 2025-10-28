@@ -6,6 +6,10 @@
 
 Website and documentation: https://cordova.apache.org/
 
+## About this Repository
+
+This repository is a landing page for Cordova specific repositories, some documentations and home for discussions. It does not reflect the npm package `cordova` which is the Cordova command line interface. That repository can be found under [apache/cordova-cli](https://github.com/apache/cordova-cli).
+
 ## Filing a Bug
 
 To file a bug, or raise another type of issue, please navigate to the appropriate repo from the list below and create a `New Issue` from the `Issues` tab of the repo.
