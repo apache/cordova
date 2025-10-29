@@ -6,9 +6,8 @@
 
 Website and documentation: https://cordova.apache.org/
 
-## About this Repository
-
-This repository is a landing page for Cordova specific repositories, some documentations and home for discussions. It does not reflect the npm package `cordova` which is the Cordova command line interface. That repository can be found under [apache/cordova-cli](https://github.com/apache/cordova-cli).
+> [!NOTE]
+> This repository is a landing page for Cordova specific repositories, some documentations and home for discussions. It does not reflect the npm package `cordova` which is the Cordova command line interface. That repository can be found under [apache/cordova-cli](https://github.com/apache/cordova-cli).
 
 ## Filing a Bug
 
@@ -17,8 +16,6 @@ To file a bug, or raise another type of issue, please navigate to the appropriat
 ## Repositories
 
 All Cordova code is hosted in repositories on GitHub.
-
-An overview of the dependencies among a selection of these repositories is shown in below graph. The leading `apache/cordova-` has been stripped from all repository names. Dotted edges are implicit dependencies (i.e. not expressed in `package.json`).
 
 [![Cordova Dependency Graph](https://sketchviz.com/@raphinesse/a6f28acb2281b782d9fb5ef486834deb/fbb1d0715431bdd67a9bc430a8d0a9899b145bf9.sketchy.png)](//sketchviz.com/@raphinesse/a6f28acb2281b782d9fb5ef486834deb)
 
@@ -29,6 +26,7 @@ Here is a full list of all repositories:
 <!-- This markdown was generated with http://cordova.betamo.de/cordova-github-repositories_markdown.php -->
 
 ### Platforms
+
 #### Active Platforms
 
 - [apache/cordova-android](https://github.com/apache/cordova-android)
@@ -61,6 +59,7 @@ Here is a full list of all repositories:
 </details>
 
 ### Core Plugins
+
 #### Active Core Plugins
 
 - [apache/cordova-plugin-battery-status](https://github.com/apache/cordova-plugin-battery-status)
@@ -81,7 +80,6 @@ Here is a full list of all repositories:
 - [apache/cordova-plugin-statusbar](https://github.com/apache/cordova-plugin-statusbar)
 - [apache/cordova-plugin-vibration](https://github.com/apache/cordova-plugin-vibration)
 
-
 #### Experimental or Unfinished Core Plugins
 
 - [apache/cordova-plugins](https://github.com/apache/cordova-plugins)
@@ -100,6 +98,7 @@ Here is a full list of all repositories:
 </details>
 
 ### Tooling
+
 #### CLIs
 
 - [apache/cordova-cli](https://github.com/apache/cordova-cli)
@@ -162,5 +161,3 @@ Here is a full list of all repositories:
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre)
 
 </details>
-
-
