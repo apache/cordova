@@ -19,33 +19,28 @@ All Cordova code is hosted in repositories on GitHub.
 
 ```mermaid
 graph TD
-    cli --> lib
-    cli --> create
     cli --> common
+
+    create --> common
+    create --> app-hello-world
+    create --> fetch
+    
+    fetch --> common
+    
+    lib --> fetch
+    lib --> common
+    lib -.-> platforms
+    
+    cli --> create
+    cli --> lib
 
     plugman --> lib
 
-    lib --> fetch
-    lib --> serve
-    lib --> common
-    lib -.-> platforms
-
-    create --> fetch
-    create --> app-hello-world
-    create --> common
-
-    fetch --> common
-
-    platforms["`Platforms
-      *
-      android
-      ios, osx
-      browser`"]
-
-    platforms -->|ios, osx| node-xcode
-    platforms -->|browser| serve
     platforms -->|all| common
     platforms -.->|all| js
+    platforms -->|browser| serve
+    platforms -->|ios| node-xcode
+    platforms["Platforms<br/>android | browser | ios"]
 ```
 
 Continuous Integration status of all relevant repositories: https://apache.github.io/cordova-status/
