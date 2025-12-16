@@ -18,6 +18,10 @@ To file a bug, or raise another type of issue, please navigate to the appropriat
 All Cordova code is hosted in repositories on GitHub.
 
 ```mermaid
+---
+config:
+  look: handDrawn
+---
 graph TD
     cli --> common
 
